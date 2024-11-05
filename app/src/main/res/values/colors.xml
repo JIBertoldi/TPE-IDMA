@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Primary Colors -->
+    <color name="colorPrimary">#FF1E1E</color> <!-- Rojo vibrante para botones principales o acentos importantes -->
+    <color name="colorPrimaryDark">#A60000</color> <!-- Rojo oscuro para la barra de estado o variantes del color principal -->
+    <color name="colorOnPrimary">#FFFFFFFF</color> <!-- Blanco para texto o íconos sobre fondos primarios -->
+
+    <!-- Secondary Colors -->
+    <color name="colorSecondary">#FFD700</color> <!-- Amarillo vibrante para resaltados o acentos secundarios -->
+    <color name="colorOnSecondary">#121212</color> <!-- Negro para texto o íconos sobre fondos secundarios -->
+
+    <!-- Background Colors -->
+    <color name="colorBackground">#121212</color> <!-- Fondo general oscuro para estilo de cine moderno -->
+    <color name="colorSurface">#1F1F1F</color> <!-- Gris oscuro para superficies elevadas como tarjetas o cuadros de diálogo -->
+    <color name="colorOnBackground">#FFFFFFFF</color> <!-- Blanco para texto principal sobre el fondo oscuro -->
+    <color name="colorOnSurface">#E0E0E0</color> <!-- Blanco suave para texto sobre superficies grises -->
+
+    <!-- Additional Colors -->
+    <color name="colorAccent">#FF1E1E</color> <!-- Acento adicional para destacarse sobre superficies oscuras -->
+    <color name="colorDivider">#333333</color> <!-- Gris oscuro para divisores o bordes ligeros -->
+
+</resources>

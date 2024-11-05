@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">TPE</string>
+    <string name="language_api">es</string>
+    <string name="movie_title">Titulo De Pelicula</string>
+    <string name="lorem_ipsum">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</string>
+    <string name="overview_404">Descripción no disponible</string>
+    <string name="genre">"Generos"</string>
+    <string name="and">y</string>
+    <string name="rating">Puntuacion</string>
+    <string name="date">Fecha de salida</string>
+    <string name="go_back">Volver</string>
+    <string name="home">Inicio</string>
+</resources>

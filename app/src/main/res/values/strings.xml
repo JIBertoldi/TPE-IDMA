@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">TPE</string>
+    <string name="language_api">en</string>
+    <string name="movie_title">Movie Title</string>
+    <string name="lorem_ipsum">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</string>
+    <string name="overview_404">Description not available</string>
+    <string name="genre">"Genres"</string>
+    <string name="and">and</string>
+    <string name="rating">Rating</string>
+    <string name="date">Release date</string>
+    <string name="go_back">Go back</string>
+    <string name="home">Home</string>
+</resources>
